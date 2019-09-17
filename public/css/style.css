@@ -1,0 +1,19 @@
+.body-title {
+    margin: 20px 15px;
+}
+
+.blog img {
+    width: 190px;
+}
+
+#edittext {
+    height: 300px;
+}
+
+.delete {
+    cursor: pointer;
+}
+
+.usertolink{
+    cursor:pointer;
+}
